@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_WallTypeChanger.dll"</Assembly>
+		<AddInId>DEA03364-AEA3-4746-8503-01A560633528</AddInId>
+		<FullClassName>RevitAPITraining_WallTypeChanger.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+		<Text>5.2 Изменение типов стен</Text>
+	</AddIn>
+</RevitAddIns>

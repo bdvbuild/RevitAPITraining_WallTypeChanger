@@ -1,0 +1,6 @@
+C:\Users\bdvbu\source\repos\RevitApiTrainingLibrary\RevitApiTrainingLibrary\bin\Debug\RevitApiTrainingLibrary.dll
+C:\Users\bdvbu\source\repos\RevitApiTrainingLibrary\RevitApiTrainingLibrary\bin\Debug\RevitApiTrainingLibrary.pdb
+C:\Users\bdvbu\source\repos\RevitApiTrainingLibrary\RevitApiTrainingLibrary\obj\Debug\RevitApiTrainingLibrary.csproj.AssemblyReference.cache
+C:\Users\bdvbu\source\repos\RevitApiTrainingLibrary\RevitApiTrainingLibrary\obj\Debug\RevitApiTrainingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bdvbu\source\repos\RevitApiTrainingLibrary\RevitApiTrainingLibrary\obj\Debug\RevitApiTrainingLibrary.dll
+C:\Users\bdvbu\source\repos\RevitApiTrainingLibrary\RevitApiTrainingLibrary\obj\Debug\RevitApiTrainingLibrary.pdb
